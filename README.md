@@ -10,4 +10,4 @@ please use the docker command: `docker pull zhuhai19/tts_merlin`
 dockerhub
 -----------
 
-"'https://hub.docker.com/r/zhuhai19/tts_merlin"'
+https://hub.docker.com/r/zhuhai19/tts_merlin
